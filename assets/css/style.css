@@ -5887,3 +5887,7 @@ table.table-bordered.table-condensed {
         background: #ff6c00;
     }
 }
+
+.navbar-brand > img {
+    height:70px;
+}
