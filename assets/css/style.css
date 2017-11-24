@@ -4510,8 +4510,6 @@ hr.hr-op {
 .feature-title p {
     font-size: 18px;
     color: #686869;
-    max-width: 640px;
-    margin: 0 auto;
     margin-top: 20px;
 }
 hr.hr-op1:before {
